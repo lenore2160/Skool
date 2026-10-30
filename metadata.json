@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fraction Bakery: Visual Fractions \u0026 Puzzles 2",
+  "description": "Interactive fraction learning with rectangular chocolate cake visuals, sliding puzzles, step-by-step addition rules, and gamified bakery badges for young learners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
